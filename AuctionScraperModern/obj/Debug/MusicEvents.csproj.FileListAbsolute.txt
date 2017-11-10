@@ -1,0 +1,10 @@
+F:\AuctionScraperModern\AuctionScraperModern\obj\Debug\AuctionScraperModern.Form1.resources
+F:\AuctionScraperModern\AuctionScraperModern\obj\Debug\AuctionScraperModern.Logs.resources
+F:\AuctionScraperModern\AuctionScraperModern\obj\Debug\MusikaAPP.Properties.Resources.resources
+F:\AuctionScraperModern\AuctionScraperModern\obj\Debug\MusicEvents.csproj.GenerateResource.Cache
+F:\AuctionScraperModern\AuctionScraperModern\bin\Debug\MusikaAPP.exe.config
+F:\AuctionScraperModern\AuctionScraperModern\bin\Debug\MusikaAPP.exe
+F:\AuctionScraperModern\AuctionScraperModern\bin\Debug\MusikaAPP.pdb
+F:\AuctionScraperModern\AuctionScraperModern\bin\Debug\Newtonsoft.Json.dll
+F:\AuctionScraperModern\AuctionScraperModern\obj\Debug\MusikaAPP.exe
+F:\AuctionScraperModern\AuctionScraperModern\obj\Debug\MusikaAPP.pdb
